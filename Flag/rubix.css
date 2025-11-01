@@ -1,0 +1,51 @@
+.kakek{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.bapak1, .bapak2, .bapak3{
+    width: 100%;
+    height: 33.3% ;
+    display:flex;
+}
+
+
+.anak1, .anak2, .anak3{
+    width: 100% ;
+    height: 100%;
+    background-color: rgb(13, 176, 163);
+    border: 4px solid;
+}
+
+.anak4, .anak5, .anak6{
+    width: 100% ;
+    height: 100%;
+    background-color: rgb(255, 0, 0);
+    border: 4px solid;
+}
+
+.anak7, .anak8, .anak9{
+    width: 100% ;
+    height: 100%;
+    background-color: rgb(102, 0, 255);
+    border: 4px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* jika menggunakan display flex */
+/* otomatis akan berbentuk row */
+/* untuk merubah alur menggunakan */
+/* flex-direction : ????? */

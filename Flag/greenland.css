@@ -1,0 +1,23 @@
+#kakek{
+    width: 800px;
+    height: 400px;
+    background-color: black;
+}
+
+.ayah1{
+    width: 800px;
+    height: 400px;
+    background:linear-gradient(to bottom, rgb(255, 255, 255) 50%, rgb(255, 0, 0) 50%);
+    border: black solid 1px;
+}
+.anak1{
+    width: 50px;
+    height: 100px;
+    border-radius:50%;
+    padding-left: 170px;
+    padding-top: 150px;
+    margin-top: 75px;
+    margin-left: 80px;
+    background:linear-gradient(to bottom, rgb(218, 0, 0) 50%, rgb(255, 255, 255) 50%);
+}
+

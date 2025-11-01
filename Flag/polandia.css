@@ -1,0 +1,17 @@
+#polandia {
+  width: 400px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.putih {
+  background-color: white;
+  flex: 1;
+}
+
+.merah {
+  background-color: red;
+  flex: 1;
+}

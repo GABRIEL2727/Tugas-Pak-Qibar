@@ -1,0 +1,62 @@
+#flag {
+  width: 400px;
+  height: 250px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border: 1px solid black;
+}
+
+#salib-vertical {
+  width: 20px;
+  height: 100%;
+  background-color: red;
+  position: absolute;
+  left: 50%;
+  
+}
+
+#salib-horizontal {
+  width: 100%;
+  height: 20px;
+  background-color: red;
+  position: absolute;
+  top: 50%;
+ 
+}
+
+#background-putih1, #background-putih2, #background-putih3, #background-putih4 {
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.salib-kecil {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  left: 1%;
+}
+
+.garis-vertikal {
+  position: absolute;
+  width: 6px;
+  height: 30px;
+  background-color: rgb(255, 0, 0);
+  left: 13px;
+  
+}
+
+.garis-horizontal {
+  position: absolute;
+  width: 30px;
+  height: 6px;
+  background-color: red;
+  top: 12px;
+  
+}
